@@ -4,7 +4,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=https://github.com/RainshawGao/Typecho-Plugin-Sitemap)
 ![](https://img.shields.io/badge/license-GPL_v3-000000.svg?style=plastic)
 
-![](https://img.shields.io/badge/Version-2.0.0-yellow.svg?style=plastic)
 [![](https://img.shields.io/badge/github-@RainshawGao-red.svg?style=plastic)](http://github.com/RainshawGao)
 [![](https://img.shields.io/badge/Email-rxg-red.svg?style=plastic)](mailto:rxg@live.com)
 
@@ -12,8 +11,8 @@ Sitemap 是一款为 Typecho 编写的站点地图插件，有助于网站的 SE
 
 ## 安装方法
 
-1. 点击仓库右上角下载源码或点击[链接](https://github.com/Rainshaw/Typecho-Plugin-Sitemap/archive/master.zip) 下载最新版本插件
-2. 解压后重命名文件夹为 `Sitemap` ，再上传至网站的 /usr/plugins/ 目录下
+1. 前往[Releases](https://github.com/RainshawGao/Typecho-Plugin-Sitemap/releases) 下载最新版本插件
+2. 解压后重命名文件夹为 `Sitemap` ，再上传至网站的 `/usr/plugins/` 目录下
 3. 启用该插件即可，无需任何设置
 
 ## 致谢及说明
