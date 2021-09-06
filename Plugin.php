@@ -8,7 +8,7 @@ define('__TYPECHO_PLUGIN_SITEMAP_VERSION__', '2.0.1');
  * @package Sitemap
  * @author <strong style="color:#28B7FF;font-family: 楷体;">Rainshaw</strong>
  * @version 2.0.1
- * @dependence 18.10.23
+ * @dependence 18.10.23-*
  * @link https://github.com/RainshawGao
  */
 class Sitemap_Plugin implements Typecho_Plugin_Interface
